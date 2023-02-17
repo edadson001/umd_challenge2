@@ -9,6 +9,8 @@ packages = [{include = "umd_challenge2"}]
 [tool.poetry.dependencies]
 python = "^3.11"
 streamlit = "^1.18.1"
+watchdog = "^2.2.1"
+black = "^23.1.0"
 
 
 [build-system]
